@@ -4,7 +4,9 @@ A Beacon Object File (BOF) implementation that provides an UDC2 channel that use
 
 ## Overview
 
-The Slack UDC2 BOF acts as a communication proxy that encapsulates Beacon traffic within Slack API requests
+The Slack UDC2 BOF acts as a communication proxy that encapsulates Beacon traffic within Slack API requests.
+
+![image-6](https://github.com/user-attachments/assets/99410863-bcbc-4d0e-b6e3-15b54c6ff7c6)
 
 ## Features
 
@@ -27,6 +29,7 @@ To quickly get the Slack UDC2 Release BOF built and usable within Cobalt Strike,
 4. From the Build menu in Visual Studio, click Build Solution
 5. Once the BOF has been successfully built, open the Cobalt Strike client and open the listeners page. Create a new UDC2 listener. Give it a name like udc2-slack-x64 or udc2-slack-x86 and choose a port for the UDC2 listener to listen on. For the UDC2 BOF field, click on the open-file dialog option and select the Slack UDC2 BOF that you just built in the previous step. Ensure that the "Debug only" checkbox is **NOT** checked. If you want to apply guard rails, apply them, and finally click Save.
 6. For specific usage instructions of the Slack UDC2 server python script, refer to the documentation in the server\\README.md file. In the interim, run the python script with the following options: `python3 slack_udc2_server.py --ts-addr YOUR_TS_UDC2_LISTENER_IP --ts-port YOUR_TS_UDC2_LISTENER_PORT`
+
 7. Before running the server, make sure to replace the following values as well (line 24-26):  
 ```python
     slack_token: str = 'xoxb-TOKEN-HERE'
@@ -110,3 +113,6 @@ This project is intentionally simplified for educational purposes to help others
 - [ICMP Bof Github](https://github.com/Cobalt-Strike/icmp-udc2)  
 - [Cobalt Strike Documentation](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm)
 - [BOF Development Guide](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/beacon-object-files_main.htm)
+
+## Author  
+Kleiton Kurti ([@kleiton0x00](https://github.com/kleiton0x00))
