@@ -1,0 +1,9 @@
+#pragma once
+#include <Windows.h>
+#include <wininet.h>
+#include <stdarg.h>
+#include <iphlpapi.h>
+#include "base/helpers.h"
+#include "udc2.h"
+#include "udc2_slack.h"
+#include "utils.h"
